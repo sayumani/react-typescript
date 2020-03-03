@@ -1,8 +1,8 @@
-# react-typescript
-Reaact Typescript Getting Started.
 
-To run the application locally clone this repo.
+#React Typescript Getting Started.
 
-Run npm install
+#To run the application locally clone this repo.
 
-Run npm run start
+#Run npm install
+
+#Run npm run start
